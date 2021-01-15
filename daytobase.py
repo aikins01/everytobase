@@ -40,7 +40,7 @@ _Commands_
 
 `/count #food` - count a number of recent records tagged `#food`
 
-Service update channel - @daytobase
+Service update channel - @everytobase deleted
 
 '''
 HASHTAG_RE = re.compile(ur'#\w+', re.UNICODE)
