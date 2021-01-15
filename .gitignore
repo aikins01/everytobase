@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtualenv
+venv/
+ENV/
+
+# Local settings
+settings.py
+
+# vim
+*.swp
+*.py.sw*
